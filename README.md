@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [social proof section](https://your-live-site-url.com)
+- Live Site URL: [social proof section](https://social-proof-section-chi-seven.vercel.app/)
 
 ## My process
 
